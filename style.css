@@ -1,0 +1,31 @@
+.C3 {
+  border: 5px solid green;
+  padding-top: 10px;
+  padding-left: 20px;
+  height: 50px;
+  width: 250px;
+  position: absolute;
+
+}
+
+.D3 {
+  border: 5px solid blue;
+  padding-top: 10px;
+  padding-left: 20px;
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 290px;
+}
+
+.E3 {
+  border: 5px solid Yellow;
+  padding-top: 10px;
+  padding-left: 20px;
+  height: 75px;
+  width: 250px;
+  position: absolute;
+  margin-top: 75px;
+  margin-left: 0px;
+}
